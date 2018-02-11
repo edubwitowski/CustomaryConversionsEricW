@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Customary Conversions Eric W</string>
+    <string name="txtTitle">Convert to Metric</string>
+    <string name="btnConvert">Metric Value</string>
+    <string name="txtEntry">English Number</string>
+    <string name="myAnswer">Answer is:</string>
+    <string name="txtConvertEnter">Enter Conversion</string>
+    <string name="imageView">The old Way of Metric</string>
+    <string-array name="txtConvertList">
+        <item>inches to centimeters</item>
+        <item>feet to meters</item>
+        <item>teaspoon to milliliters</item>
+        <item>floz to ml</item>
+    </string-array>
+</resources>
